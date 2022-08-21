@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Ibamondor from Ghana. I am a Chemical Engineer who has also developed data analytic skills using the Python language, to enable me optimize processing and production operations with insights from data. 
+
 <!--
 **IbArkad/IbArkad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

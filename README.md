@@ -11,7 +11,7 @@ Skills: Python
 - 📫 How to reach me: dibamondor@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IbArkad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/DOMINICIBAMONDORBAKANTICHE/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IbArkad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dominic-ibamondor-bakantiche-b9915272?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCGxJJkQZSoeiL%2BuAylNVEQ%3D%3D/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IbArkad&show_icons=true)  
 

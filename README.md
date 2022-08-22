@@ -2,7 +2,7 @@
 
 # I am Dominic Ibamondor Bakantiche!
 ### Chemical Engineer and Data Analyst
-I am a passionate professional interested in optimizing process and production operations using insights drawn and communicated through data analytics.
+I am a passionate professional interested in optimizing process, production and other operations using insights drawn and communicated through data analytics.
 
 ## Skills and Experiences
 * Python

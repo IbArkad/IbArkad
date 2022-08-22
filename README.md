@@ -6,6 +6,10 @@ I am a passionate professional interested in optimizing process and production o
 
 ## Skills and Experiences
 * Python
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
 
 ## Others
 - 🔭 I’m currently working on growing my portfolio. 

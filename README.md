@@ -1,6 +1,6 @@
 ![Chemical Engineer and Data Analyst](https://media-exp1.licdn.com/dms/image/C4D16AQEiFvswYbuo4g/profile-displaybackgroundimage-shrink_200_800/0/1661010524133?e=1666828800&v=beta&t=k0WBi13bmVvDolN4lic1La-T4-J25iZB4mbvVuVB58g)
 
-# Hi there 👋, I am Dominic Ibamondor Bakantiche!
+# I am Dominic Ibamondor Bakantiche!
 ## Chemical Engineer and Data Analyst
 I am a passionate professional interested in optimizing process and production operations using insights drawn and communicated through data analytics.
 
